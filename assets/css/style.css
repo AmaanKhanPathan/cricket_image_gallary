@@ -1,0 +1,40 @@
+.all div{
+    height: 250px;
+    border: 1px solid blue;
+    margin-bottom: 15px;
+    overflow : hidden;
+    
+
+}
+.Cricket-players img {
+    height: 250px;
+    object-fit: cover; 
+    width:100%;
+    margin-bottom:15px;
+    /* border-radius: 30px; */
+    border: 2px solid black;
+}
+.Footbal-players img {
+    height:250px;
+    object-fit:cover;
+    width:100%;
+    margin-bottom:15px;
+    /* border-radius: 30px; */
+    border: 2px solid black;
+}
+.Tennis-players img{
+    height:250px;
+    object-fit:cover;
+    width:100%;
+    margin-bottom:15px;
+    /* border-radius: 30px; */
+    border: 2px solid black;  
+}
+.Hockey-players img{
+    height:250px;
+    object-fit:cover;
+    width:100%;
+    margin-bottom:15px; 
+    /* border-radius: 30px; */
+    border: 2px solid black; 
+}
